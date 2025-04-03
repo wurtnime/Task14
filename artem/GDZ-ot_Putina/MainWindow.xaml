@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="220km/h ne yspeem" Height="450" Width="600"
+        Background="#FFE4E1">
+
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Практическая №14" 
+                       FontSize="24" 
+                       FontWeight="Bold" 
+                       HorizontalAlignment="Center" 
+                       Margin="0,0,0,20"/>
+            
+                <!-- Арчо, где наши алименты?!?!?!?!!?  -->
+            
+            <ComboBox x:Name="TaskComboBox" 
+                      Width="200" 
+                      HorizontalAlignment="Center" 
+                      Margin="0,0,0,20"/>
+
+            <Button x:Name="SolveButton" 
+                    Content="Решить" 
+                    Width="100" 
+                    HorizontalAlignment="Center" 
+                    Margin="0,0,0,20" 
+                    Click="SolveButton_Click"/>
+
+            <TextBox x:Name="ResultTextBox" 
+                     Width="400" 
+                     Height="200" 
+                     IsReadOnly="True" 
+                     TextWrapping="Wrap"
+                     Background="#F0FFF0" 
+                     VerticalScrollBarVisibility="Auto"/>
+        </StackPanel>
+    </Grid>
+</Window>

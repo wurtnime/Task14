@@ -1,0 +1,38 @@
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\bin\Debug\net8.0-windows\GDZ-ot_Putina.exe
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\bin\Debug\net8.0-windows\GDZ-ot_Putina.deps.json
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\bin\Debug\net8.0-windows\GDZ-ot_Putina.runtimeconfig.json
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\bin\Debug\net8.0-windows\GDZ-ot_Putina.dll
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\bin\Debug\net8.0-windows\GDZ-ot_Putina.pdb
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina_MarkupCompile.cache
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.g.resources
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.AssemblyInfo.cs
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.dll
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\refint\GDZ-ot_Putina.dll
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.pdb
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.genruntimeconfig.cache
+C:\Users\Segor\Desktop\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\ref\GDZ-ot_Putina.dll
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\bin\Debug\net8.0-windows\GDZ-ot_Putina.exe
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\bin\Debug\net8.0-windows\GDZ-ot_Putina.deps.json
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\bin\Debug\net8.0-windows\GDZ-ot_Putina.runtimeconfig.json
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\bin\Debug\net8.0-windows\GDZ-ot_Putina.dll
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\bin\Debug\net8.0-windows\GDZ-ot_Putina.pdb
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\App.g.cs
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina_MarkupCompile.cache
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.g.resources
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.AssemblyInfoInputs.cache
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.AssemblyInfo.cs
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.csproj.CoreCompileInputs.cache
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.dll
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\refint\GDZ-ot_Putina.dll
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.pdb
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\GDZ-ot_Putina.genruntimeconfig.cache
+D:\ОП\Практика №14\GDZ-ot_Putina\GDZ-ot_Putina\obj\Debug\net8.0-windows\ref\GDZ-ot_Putina.dll

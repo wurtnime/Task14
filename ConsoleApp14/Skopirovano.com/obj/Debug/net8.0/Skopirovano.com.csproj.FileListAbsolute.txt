@@ -1,0 +1,14 @@
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\bin\Debug\net8.0\Skopirovano.com.exe
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\bin\Debug\net8.0\Skopirovano.com.deps.json
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\bin\Debug\net8.0\Skopirovano.com.runtimeconfig.json
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\bin\Debug\net8.0\Skopirovano.com.dll
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\bin\Debug\net8.0\Skopirovano.com.pdb
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\obj\Debug\net8.0\Skopirovano.com.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\obj\Debug\net8.0\Skopirovano.com.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\obj\Debug\net8.0\Skopirovano.com.AssemblyInfo.cs
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\obj\Debug\net8.0\Skopirovano.com.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\obj\Debug\net8.0\Skopirovano.com.dll
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\obj\Debug\net8.0\refint\Skopirovano.com.dll
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\obj\Debug\net8.0\Skopirovano.com.pdb
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\obj\Debug\net8.0\Skopirovano.com.genruntimeconfig.cache
+C:\Users\Segor\Desktop\Skopirovano.com\Skopirovano.com\obj\Debug\net8.0\ref\Skopirovano.com.dll
